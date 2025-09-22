@@ -1,2 +1,6 @@
 my_answers.txt
+<<<<<<< HEAD
 test
+=======
+edit the file for a test
+>>>>>>> bd62e36866e5b6e8e85ab0c5a03ae26b41335b32

@@ -1,0 +1,17 @@
+1: Alle scripten in kleine scripten verdelen en in de juiste mappen plaatsen. (voor workflow)
+	a: download-data verdelen Luc
+	b: testingmain verdelen Marvin
+	c: moderator addition verdelen Marvin
+		VAN ELK DING EEN ISSUE AANMAKEN I.C.M. WOUTER
+2: we hebben nu inner_join en left_join gebruikt. Beoordelen hoe we deze willen hebben: Melvin, Marvin
+3: Make bestand creëren en bewerken voor de eerste stap automatisering: Wouter, Daan
+4: Feedback om te kijken naar genres 'you currently use the global mean of rutnime to impute it which could bias the data, maybe an idea would be to group by genre and release date or something and impute based  on the mean/median by that grouping' : Mogelijkheden onderzoeken: Melvin Luc 
+6: Rmarkdown: Daan Marvin
+ 
+
+1: Opdelen in 4 stukken: 	dataprep_directeffect
+				dataprep_modeffect
+				analysis_directeffect
+				analysis_modeffect
+				visualization_directeffect
+				visualization_modeffect
